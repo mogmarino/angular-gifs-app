@@ -1,0 +1,10 @@
+#main {
+  position: relative;
+  right: -250px;
+}
+
+#listado {
+  z-index: -999;
+  position: relative;
+  top: 70px;
+}
